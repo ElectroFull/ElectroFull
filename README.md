@@ -1,4 +1,6 @@
-## Hi there 👋
+### Hey, I’m Sadidzhan 👋
+
+Passionate about algorithms, systems, and machine learning. I enjoy building efficient, scalable software and exploring real-world applications of code.
 
 <!--
 **ElectroFull/ElectroFull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
